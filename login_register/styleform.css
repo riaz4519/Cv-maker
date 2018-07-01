@@ -1,0 +1,17 @@
+.form-control{
+    border-radius: 0;
+
+
+    background-color: #24303C;
+}
+.background{
+    background-color: #24303C;
+    margin-top: 30px;
+    padding:30px;
+}
+.white{
+    color: white;
+}
+.btn-success{
+    background-color: #1AB189;
+}

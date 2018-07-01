@@ -1,0 +1,128 @@
+.round_img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+
+}
+.img_grid{
+    background: #242627;
+    padding-bottom: 40px;
+}
+.contact_me_about{
+    background: #AD3C3D;
+}
+.padding_top{
+   padding-top: 40px;
+
+}
+.padding_contact{
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.padding_left{
+    padding-left: 40px;
+}
+.padding_left i{
+
+ color: white;
+
+
+ }
+.padding_left .col-lg-1{
+    padding-right: 30px;
+}
+.padding_bottom{
+    padding-bottom: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.contact_about_font{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway');
+.contact_about_text{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    color: #EDD6CF;
+    font-size: 14px;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald|Raleway');
+.name_my{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Oswald', sans-serif;
+
+    color: #FFFFFF;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.p_designation{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+/*exper*/
+
+.education_skills{
+    background: #242627;
+    
+}
+.experience_awards{
+    background: #272A2C;
+}
+@import url('https://fonts.googleapis.com/css?family=Anton|Fjalla+One|Lobster|PT+Serif|Yanone+Kaffeesatz');
+.experience_awards_wrap h1{
+    color: #E75547;
+    margin-bottom: 30px;
+    letter-spacing: -3px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'PT Serif', serif;
+
+}
+.experience_awards_wrap{
+    margin-top: 38px;
+    margin-left: 30px;
+    margin-bottom: 38px;
+}
+.awards_wrap{
+    margin-top: 38px;
+    margin-left: 30px;
+    margin-bottom: 38px;
+}
+.awards_wrap h1{
+    color: #E75547;
+    margin-bottom: 30px;
+    letter-spacing: -3px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'PT Serif', serif;
+
+}
+
+.progress_color{
+    color:#FFFFFF;
+}
+.progress_height{
+    height: 12px;
+    border-radius: 2px;
+    margin-top: 7px;
+
+}
+.progress_spacing{
+    margin-top: 10px;
+}
+
+/*.experience_awards .card{*/
+    /*border-radius: 0;*/
+    /*background: #272A2C;*/
+    /*border: none;*/
+/*}*/

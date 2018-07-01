@@ -1,0 +1,144 @@
+.main_left{
+    background-color: rgb(58, 105, 131);
+
+}
+.round_img{
+    border-radius: 50%;
+    height:150px;
+    width: 150px;
+}
+.profile_wrap{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.margin_top_wor{
+    margin-top: 40px;
+}
+.margin_row{
+    margin: 4px;
+}
+.round_radius{
+    border-radius:50% ;
+    padding: 4px;
+
+}
+.white_border{
+    border: 1px solid white;
+    box-sizing: border-box;
+
+}
+.position_icon{
+    margin-left: -12px;
+}
+@import url('https://fonts.googleapis.com/css?family=Anton|Fjalla+One|Lobster|PT+Serif|Ubuntu|Yanone+Kaffeesatz');
+.white_category{
+    color: white;
+    font-weight: bold;
+
+
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+.little_margin_top{
+    margin-top: 10px;
+}
+.profile_text{
+    margin-left: 15px;
+    text-align: left;
+}
+.contact_white_background{
+    border-radius: 50%;
+    background: white;
+    color: black;
+    padding: 8px;
+    height: 30px;
+    width: 30px;
+
+}
+.contact_margin_left{
+    margin-left: 10px;
+}
+.contact_radius{
+    height: 43px;
+    width: 43px;
+    padding: 9px;
+    border-radius: 50%;
+}
+.progress-bar{
+    height:12px;
+    border-radius: 10px;
+
+
+}
+.progress{
+    margin-top: -10px;
+    border-radius: 10px;
+}
+
+/*right*/
+
+.main_right{
+    background-color: #FFFFFF;
+    border: 1px solid #3D6982;
+    border-radius: 2px;
+}
+
+.black_border{
+    border: 1px solid black;
+}
+@import url('https://fonts.googleapis.com/css?family=Anton|Fjalla+One|Lobster|PT+Serif|Ubuntu|Yanone+Kaffeesatz');
+.blue_category{
+    color: #3D6982;
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-left: -25px;
+
+
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+.circle_color{
+    color: #3D6982;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Fjalla+One|Lobster|PT+Sans|PT+Serif|Ubuntu|Yanone+Kaffeesatz');
+.p_styling{
+    font-size: 14px;
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+.h_styling{
+
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+.margin_left_c_p{
+    margin-left: 25px;
+}
+
+
